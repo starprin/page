@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+*{
+    margin: 15px;
+    padding: 0px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-attachment: fixed ;
+    background-color: rgb(209, 247, 252);
+}
+
+header {
+    background-color: rgb(3, 168, 119);
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+#home {
+    background-color: #f2f2f2;
+
+}
+.main1 img{ 
+    border-radius: 70%;
+    
+    
+    
+}
+
+.lang{
+    color: orangered;
+}
+
+
+
+.scard{
+    display:inline-block;
+    width:110px;
+    text-align: center;
+    background-color: rgb(97, 191, 206);
+    border-radius: 10px;
+    margin-right: 5%;
+}
+.scard:hover{
+    scale:110%;
+    background-color: #f9b572;
+}
+
+
+
+.project {
+    margin-bottom: 20px;
+}
+
+.scard2{
+    display:inline-block;
+    width:700px;
+    text-align: center;
+    background-color: purple;
+    border-radius: 10px;
+    margin-right: 5%;
+}
+.scard2:hover{
+    scale:110%;
+    background-color: yellowgreen;
+}
+.foot{
+    display: inline-block;
+    text-size-adjust: 25%;
+    
+    
+}
+.logo{
+    margin: 50px;
+    position: relative;
+    left: 500px;
+}
